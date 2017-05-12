@@ -2,3 +2,6 @@
 .DS_Store
 */.DS_Store
 bin/*.app
+
+GpgpuParticleVJ.xcodeproj/project.xcworkspace/xcuserdata/*/UserInterfaceState.xcuserstate
+GpgpuParticleVJ.xcodeproj/xcuserdata/*/xcschemes/xcschememanagement.plist
